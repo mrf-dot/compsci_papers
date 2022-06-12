@@ -1,12 +1,3 @@
-Wow, fantastic! Thank you very much, Mitch.
-
-Mr. Beatty
-
-From: Mitchell Feigenbaum <1433642@fcpsschools.net>
-Sent: Tuesday, January 25, 2022 1:04 PM
-To: Beatty, Chris <CMBeatty@fcps.edu>
-Subject: Compile Documents With Groff
-
 Here are some resources to compile documents with groff. Groff is based on the program runoff, which was created at MIT in the 60s. If you use Linux or Mac it is already installed, and you may access it on the command line by using the groff command. You may compile documents to formats such as postscript and pdf. If you are on Windows you can use groff through msys2 or wsl. In order to compile a groff document to a PDF, enter this unix command:
 grog -Tpdf filename --run > filename.pdf
 The program grog takes care of all the preprocessors for groff. However, you may need to use the groff command if you want extra customization.
@@ -27,5 +18,3 @@ These are the manpages for the groff friends. They help do complex formatting li
 - Make bibliographies<https://linux.die.net/man/1/refer>
 The history of groff<https://www.gnu.org/software/groff/manual/html_node/History.html> (from 1960 to present)
 Below I have attached a document I made in groff that shows the capabilities of groff, eqn, and tbl. I have added notes in comments (in groff_ms you can comment by putting \# at the beginning of a line). You may try to compile the ms file with the groff or grog command. I have also attached a pdf version of the file.
-Best regards,
-Mitch Feigenbaum
