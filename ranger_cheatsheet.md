@@ -1,7 +1,7 @@
 # Ranger Cheatsheet
 
 ## General
-Shortcut | Description 
+Shortcut | Description
 ---|---
 `ranger` | Start Ranger
 `Q` | Quit Ranger
@@ -10,7 +10,7 @@ Shortcut | Description
 
 
 ## Movement
-Shortcut | Description 
+Shortcut | Description
 ---|---
 `k` | up
 `j` | down
@@ -25,10 +25,10 @@ Shortcut | Description
 `~` | Switch the view
 
 ## File Operations
-Shortcut | Description 
+Shortcut | Description
 ---|---
 `<Enter>` | Open
-`r` | open file with 
+`r` | open file with
 `z` | toggle settings
 `o` | change sort order
 `zh` | view hidden files
@@ -41,9 +41,9 @@ Shortcut | Description
 `N` | prev match
 `<delete>` | Delete
 
-  
+
 ## Commands
-Shortcut | Description 
+Shortcut | Description
 ---|---
 `:` | Execute Range Command
 `!` | Execute Shell Command
@@ -52,7 +52,7 @@ Shortcut | Description
 `S` | Run the terminal in your current ranger window (exit to go back to ranger)
 
 ## Tabs
-Shortcut | Description 
+Shortcut | Description
 ---|---
 `C-n` | Create new tab
 `C-w` | Close current tab
@@ -61,7 +61,7 @@ shift + tab | Previous tab
 alt + [n] | goto / create [n] tab
 
 ## File substituting
-Shortcut | Description 
+Shortcut | Description
 ---|---
 `%f` | Substitute highlighted file
 `%d` | Substitute current directory
@@ -72,15 +72,10 @@ Shortcut | Description
 `:bulkrename %s`
 
 ## Marker
-Shortcut | Description 
+Shortcut | Description
 ---|---
 `m  + <letter>` | Create Marker
 `um  + <letter>` | Delete Marker
 `'  + <letter>` | Go to Marker
 `t` | tag a file with an *
 `t"<any>` | tag a file with your desired mark
-
-_thx to the comments section for additional shortcuts! post your suggestions there!_
-
-
-
