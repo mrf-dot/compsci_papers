@@ -6,7 +6,7 @@ the vast majority of people seem to use PowerShell only for
 system-administration, but it is in actuality a great scripting language on the
 level of Python or Bash.
 
-# The good
+## The good
 
 * Great built-in capabilities. I've particularly liked PowerShell's super easy
   JSON API and table columnating capabilities. CLI programs are typically tough
@@ -20,7 +20,7 @@ level of Python or Bash.
   add, divide, subtract, multiply, or mod a number just the way you would do so
   with a calculator.
 
-# The bad
+## The bad
 
 * Verbosity. Coming from a Linux background, I am used to using programs like
   cat, grep, and ls that produce very simple output that is meant to be parsed
@@ -46,7 +46,7 @@ level of Python or Bash.
   the addition of && and || as operators, but there is still more work to be
   done in my opinion.
 
-# Why PowerShell is cool anyways
+## Why PowerShell is cool anyways
 
 PowerShell is looked down upon poorly by a lot of people familiar with UNIX
 system administration. However, it does offer up a lot of features that many
